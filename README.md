@@ -300,8 +300,7 @@ button:hover{
             </p>
 
             <p>
-                ❤️ I Love You More Than Yesterday
-                And Less Than Tomorrow ❤️
+                ❤️ I Love You Sara muwaahh 😘 ❤️
             </p>
 
         </div>
